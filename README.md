@@ -1,2 +1,2 @@
-# node-red-contib-sample
+# node-red-contrib-sample
 test
